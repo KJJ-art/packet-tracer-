@@ -16,7 +16,7 @@
 ### 2.1 전체 토폴로지 (Full Topology)
 > **설계 의도:** Core Layer와 Distribution Layer의 명확한 구분 및 이중화 링크 구성
 
-
+![Server Farm](server_farm.png)
 
 ### 2.2 계층별 상세 설계
 
