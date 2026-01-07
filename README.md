@@ -1,10 +1,5 @@
-# 🌐 AWS Hybrid Cloud Readiness Enterprise Network
+# AWS Hybrid Cloud Readiness Enterprise Network
 > **고가용성(High Availability) 및 망 분리(Security)를 고려한 엔터프라이즈 네트워크 인프라 구축 프로젝트**
-
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network](https://img.shields.io/badge/Network-Infrastructure-gray?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Security](https://img.shields.io/badge/Security-ACL%20%26%20VLAN-red?style=for-the-badge&logo=shield&logoColor=white)
-
 ---
 
 ## 1. 프로젝트 개요 (Overview)
